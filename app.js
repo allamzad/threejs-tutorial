@@ -30,7 +30,9 @@ const MODEL_Z = 10;
 const MODEL_SCALE = 0.5;
 
 // Scence object paths
+/* Source: Nintendo, Creator: Daisuke Watanabe */
 const BACKGROUND_IMG_PATH = "materials/space.jpg";
+/* Source: TurboSquid, Creator: Tenry */
 const MODEL_GLTF_PATH = "materials/shine.gltf";
 
 // Light properties
